@@ -14,9 +14,7 @@
   1. How would you list all files in a directory, including hidden ones?
   2. Write a command to move a file from one directory to another.
   3. Create a nested directory structure (`/home/user/documents/reports/2024`).
-
-  <br>
-    ![image](https://github.com/user-attachments/assets/a7ec43f0-2927-4705-8784-2fc8bc54411f)
+  ![image](https://github.com/user-attachments/assets/a7ec43f0-2927-4705-8784-2fc8bc54411f)
 
     
 ---
